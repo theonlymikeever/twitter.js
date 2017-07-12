@@ -1,7 +1,7 @@
 {
   "name": "July17_WS",
   "version": "1.0.0",
-  "description": "Workshop - Mike/Vince",
+  "description": "Workshop-Mike/Vince",
   "main": "twitter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
